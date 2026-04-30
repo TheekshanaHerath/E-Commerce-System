@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		4OPB/TAaH/zOJlmjceNM0HIFIz8=
+		tnu9zq56lvPPaUT+cSExi0yfrdw=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		d1ZC4eztUGsX3FPpqxMI/MuuhqU=
+		4ZN4m5sJzwcDVPaLgPTNNmbsgYw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		8k15Ms3ayR/SKWXeoNhGeM10kzA=
+		92yzNifmOCzBUF/G2MgjjRNAJf4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -66,15 +66,19 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		4MF7rKYRfx3/z9h/OZjCapI9OTc=
+		qXvmSc4Ja1HfHxlu1PQUrf/f+Rw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NativeAssetsManifest.json</key>
 		<data>
-		re4p7E8rPLLsN+wzaPN/+AVpXTY=
+		BASHf/14q0VcgmnKtkQLt+qMEqo=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/animation/loginAnimation.json</key>
 		<data>
 		PgYcZqRSBkGaxaRWPInsqCftjOs=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/signUp_image.jpg</key>
+		<data>
+		23lQ2ocKioXOh/LMlxO7UIH0D60=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/logo/center.png</key>
 		<data>
@@ -90,7 +94,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		aRKy7FB/P1hXRA6IBLYxGlil/g8=
+		937OsMDaF/6x7bpIoQbg5n0tIi4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -208,9 +212,41 @@
 		<data>
 		j5wlnTozB4ari71J5+eav6HVUu0=
 		</data>
+		<key>Frameworks/flutter_secure_storage_darwin.framework/Info.plist</key>
+		<data>
+		c5AqnrbUlWSSlh9v5jsdde40lI4=
+		</data>
+		<key>Frameworks/flutter_secure_storage_darwin.framework/_CodeSignature/CodeResources</key>
+		<data>
+		OQHdZ4KFrKOLb1kNy0WucMgLB58=
+		</data>
+		<key>Frameworks/flutter_secure_storage_darwin.framework/flutter_secure_storage.bundle/Info.plist</key>
+		<data>
+		ULTTDpoAyc5uxNPGyaOJasDIjgY=
+		</data>
+		<key>Frameworks/flutter_secure_storage_darwin.framework/flutter_secure_storage.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		YIiJ5tHvqBeSpBm2mcfVZdaGz3E=
+		</data>
+		<key>Frameworks/flutter_secure_storage_darwin.framework/flutter_secure_storage_darwin</key>
+		<data>
+		lxwBrM0KcXXVBJdsZPIDmsCfWPk=
+		</data>
+		<key>Frameworks/objective_c.framework/Info.plist</key>
+		<data>
+		TE+E1mxiYaEUCJN+bms96LlMOqs=
+		</data>
+		<key>Frameworks/objective_c.framework/_CodeSignature/CodeResources</key>
+		<data>
+		c3cQHcgpFZr+Qv7wLY9rW7MUZdc=
+		</data>
+		<key>Frameworks/objective_c.framework/objective_c</key>
+		<data>
+		IPCHfhKek9WViWhpK6JATiMJ7fs=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		skxfUi8RbKJMj1VKOBJNo9JbAt8=
+		+xOCyJqq7cptJ8/MC6lmHyu9T00=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -218,7 +254,7 @@
 		</data>
 		<key>Runner.debug.dylib</key>
 		<data>
-		nMkkzMoQbBI6f8bpXN6w2fNlRpo=
+		RbKVGAkkgfmyPJnYw12flYhYHkA=
 		</data>
 		<key>__preview.dylib</key>
 		<data>
@@ -301,7 +337,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ClOglWdwweVUVZ3bfq6zM18jz+Q9kUieEOoJsFnNUNU=
+			wKCo8+Ta4StgV32bYpdPZSLt1MDiQvGaijriuG/GLlI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -315,14 +351,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+pmytPyxwlEPi8htTpW8YQwfOpNtB0XTeQrQ1iFjMqo=
+			bWprVI1CmQ7NEI/Bk4nGw4bTFDYzTIIUlNd7e+gbZ3s=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yf7knCNpnwpesPfN6kmgfQ786QQKtWXvE2ihCJUWSKY=
+			HqNq6/4JPlnFqIIeV4Nqxsgbixv+Jib2LU64K1VM5rA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -336,14 +372,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CgJ8S+s5rCHAbx2HYoRjDyl+2rT3ltsii/lpfc5m77I=
+			cQZd9gmMio4Lb1rrPV1yYNs3bnI2Gv1EyN94Cm56YzU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NativeAssetsManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lUijHkoEgTXB2U+Rkyi/tirix7s8q5ZVfHlB2ql3dss=
+			Ylst3tzkLj0hjOuIabyRGejeqGUKbLJKt3nVAIBVsUE=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/animation/loginAnimation.json</key>
@@ -351,6 +387,13 @@
 			<key>hash2</key>
 			<data>
 			Y2qReGnFW0RL5ES+LUyhM3r0lJYkyi42TxsVtF0w80I=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/signUp_image.jpg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gFZu+1SwalI2b7fhQjGfYpovScJyJ7OsWhXg9UsWNXk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/logo/center.png</key>
@@ -378,7 +421,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			misf/D+vXEgZRJWPQnL2e40ptH4yz2eUhPD1h16p5dw=
+			FfiMrLrW8uKW1K7b50apCIreifsmf6Pg/7dObHYF3u0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -584,11 +627,67 @@
 			mYNngJqCHVlZKAicGXs/eVnwQg+B951NDa7lM3hJLtU=
 			</data>
 		</dict>
+		<key>Frameworks/flutter_secure_storage_darwin.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AjeRQRNglfX2ZpCq3SqDkEliXC/HmAdG3TMpDfngXf8=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_secure_storage_darwin.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8ewwv+QG6wtOSnaGa+tew/X/1QGCmgDD4DfhOOuYn9M=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_secure_storage_darwin.framework/flutter_secure_storage.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RfxbQV9TIy6bRE1DsEpQyR9jhi45MIcJ91TCiidRM7U=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_secure_storage_darwin.framework/flutter_secure_storage.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RyJqKWCN8gatChEOav61p3/1dawd+cdr/bLW37P6/tE=
+			</data>
+		</dict>
+		<key>Frameworks/flutter_secure_storage_darwin.framework/flutter_secure_storage_darwin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K14wULx8wVD6ABMEkvxsO6X0cdil+J5caz9X44W4lec=
+			</data>
+		</dict>
+		<key>Frameworks/objective_c.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ieq7oc4JBoBJbhQ2cAj3lSMF0hTTgor4XjlXYThOKLA=
+			</data>
+		</dict>
+		<key>Frameworks/objective_c.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eiUq9jVK86qiiJ1h7Bcv5yn/+cD5ol8Tlb7TyDDM7rw=
+			</data>
+		</dict>
+		<key>Frameworks/objective_c.framework/objective_c</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gH60LpMyuPwoG18MiUn+lka35LNCGsInDpOYkyHg+ns=
+			</data>
+		</dict>
 		<key>Runner.debug.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/i7kbMmYQqsL+ziZcRh+VQWNo15eznn0luRvDp20FWU=
+			Iy+8Gw8KyX4RpbH8MdNKxHH7UjBUNcuh1+on44lpt40=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>

@@ -1,12 +1,10 @@
+import 'package:ecommerce_frontend/spash_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'data/repositories/auth_repository.dart';
-import 'features/authentication/bloc/login_bloc.dart';
-import 'features/authentication/ui/login_screen.dart';
-import 'spash_screen.dart';
+import 'core/di/injection.dart';
 
-void main() {
+Future<void> main() async {
+  setupDependencies();
   runApp(const MyApp());
 }
 
@@ -16,16 +14,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Ecommerce App',
-      initialRoute: '/',
-      routes: {
-        '/': (context) => const SplashScreen(),
-
-        '/login': (context) => BlocProvider(
-          create: (context) => LoginBloc(AuthRepository()),
-          child: const Loginscreen(),
-        ),
-      },
+      title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(
+        colorScheme: .fromSeed(seedColor: Colors.deepPurple),
+      ),
+      home: const SplashScreen(),
     );
   }
 }

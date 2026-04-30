@@ -1,0 +1,57 @@
+Running `(cd /Users/theekshanaherath/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; ANDROID_HOME=/Users/theekshanaherath/Library/Android/sdk TMPDIR=/var/folders/yh/xq86pnyn2bvbmt419ycghhqr0000gn/T/ PATH=/Applications/Xcode.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/pmk/env/global/bin:/Library/Apple/usr/bin:/Users/theekshanaherath/development/flutter/bin HOME=/Users/theekshanaherath /Users/theekshanaherath/development/flutter/bin/cache/dart-sdk/bin/dart '--packages=/Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/package_config.json' '/Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/objective_c/84fd4fa0ea/hook.dill' '--config=/Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/objective_c/84fd4fa0ea/input.json' )`.
+INFO: 2026-04-30 18:09:18.811037: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-04-30 18:09:18.998127: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-04-30 18:09:19.016621: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -c /Users/theekshanaherath/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/include/dart_api_dl.c -fpic -I src -o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-04-30 18:09:19.017379: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/theekshanaherath/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/input_stream_adapter.m -fpic -I src -o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-04-30 18:09:19.017514: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/theekshanaherath/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c.m -fpic -I src -o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.m.o
+INFO: 2026-04-30 18:09:19.017631: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/theekshanaherath/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/observer.m.o
+
+INFO: 2026-04-30 18:09:19.017960: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/theekshanaherath/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/ns_number.m -fpic -I src -o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/ns_number.m.o
+
+INFO: 2026-04-30 18:09:19.018280: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/theekshanaherath/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/protocol.m.o
+
+INFO: 2026-04-30 18:09:19.018465: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/theekshanaherath/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-04-30 18:09:19.212352: 
+INFO: 2026-04-30 18:09:19.212813: 
+INFO: 2026-04-30 18:09:19.212867: Generated /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.c.o
+INFO: 2026-04-30 18:09:19.217570: 
+INFO: 2026-04-30 18:09:19.217631: 
+INFO: 2026-04-30 18:09:19.217646: Generated /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-04-30 18:09:19.219991: 
+INFO: 2026-04-30 18:09:19.220099: 
+INFO: 2026-04-30 18:09:19.220129: Generated /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/observer.m.o
+
+INFO: 2026-04-30 18:09:19.223340: 
+INFO: 2026-04-30 18:09:19.223398: 
+INFO: 2026-04-30 18:09:19.223409: Generated /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/protocol.m.o
+
+INFO: 2026-04-30 18:09:19.390666: 
+INFO: 2026-04-30 18:09:19.390748: 
+
+Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/ns_number.m.o
+
+INFO: 2026-04-30 18:09:19.400596: 
+INFO: 2026-04-30 18:09:19.400643: 
+INFO: 2026-04-30 18:09:19.400657: Generated /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.m.o
+
+INFO: 2026-04-30 18:09:19.404697: 
+INFO: 2026-04-30 18:09:19.404813: 
+INFO: 2026-04-30 18:09:19.404843: Generated /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-04-30 18:09:19.423183: 
+INFO: 2026-04-30 18:09:19.423223: 
+INFO: 2026-04-30 18:09:19.423234: Generated /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-04-30 18:09:19.423609: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/include/dart_api_dl.c.o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.c.o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/input_stream_adapter.m.o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.m.o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/observer.m.o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/ns_number.m.o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/protocol.m.o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c_bindings_generated.m.o -o /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/objective_c.dylib
+
+INFO: 2026-04-30 18:09:19.559816: 
+INFO: 2026-04-30 18:09:19.559884: ld: warning: -undefined dynamic_lookup is deprecated on iOS-simulator
+
+INFO: 2026-04-30 18:09:19.559899: Generated /Users/theekshanaherath/My Project/E-Commerce-System/Source Code/frontend/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/objective_c.dylib
+
